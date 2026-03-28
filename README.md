@@ -1,4 +1,4 @@
-# Hola, soy Sebastian Patino Valencia 👋
+# Hola, soy Sebastian Patiño Valencia 👋
 
 ---
 
