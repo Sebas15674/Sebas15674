@@ -34,11 +34,6 @@ Durante mi formación y etapa productiva, me enfoqué en llevar proyectos desde 
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Sebas15674&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Sebas15674" width="400" />
-</p>
-
 ---
 
 ### 📫 ¿Cómo contactarme?
